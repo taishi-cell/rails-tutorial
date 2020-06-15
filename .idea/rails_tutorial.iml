@@ -126,6 +126,24 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="active_storage_validations (vbundled(0.8.2)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/active_storage_validations-0.8.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/active_storage_validations-0.8.2/config" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/active_storage_validations-0.8.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/active_storage_validations-0.8.2/config" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/active_storage_validations-0.8.2/config" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="activejob (vbundled(6.0.3)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
@@ -268,6 +286,84 @@
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/autoprefixer-rails-9.7.6/spec" />
         </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aws-eventstream (vbundled(1.1.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-eventstream-1.1.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-eventstream-1.1.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aws-partitions (vbundled(1.327.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-partitions-1.327.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-partitions-1.327.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aws-sdk-core (vbundled(3.98.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sdk-core-3.98.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sdk-core-3.98.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aws-sdk-kms (vbundled(1.33.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sdk-kms-1.33.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sdk-kms-1.33.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aws-sdk-s3 (vbundled(1.46.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sdk-s3-1.46.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sdk-s3-1.46.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aws-sigv4 (vbundled(1.1.4)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sigv4-1.1.4/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/aws-sigv4-1.1.4/lib" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -687,6 +783,19 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="image_processing (vbundled(1.9.3)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/image_processing-1.9.3/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/image_processing-1.9.3/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="jbuilder (vbundled(2.9.1)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
@@ -705,6 +814,19 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/jbuilder-2.9.1/test" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/jbuilder-2.9.1/gemfiles" />
         </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmespath (vbundled(1.4.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/jmespath-1.4.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/jmespath-1.4.0/lib" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -822,6 +944,19 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/mimemagic-0.3.5/test" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/mimemagic-0.3.5/script" />
         </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mini_magick (vbundled(4.9.5)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/mini_magick-4.9.5/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/mini_magick-4.9.5/lib" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -1314,6 +1449,24 @@
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/ruby-progressbar-1.10.1/lib" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ruby-vips (vbundled(2.0.17)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/ruby-vips-2.0.17/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/ruby-vips-2.0.17/example" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/ruby-vips-2.0.17/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/ruby-vips-2.0.17/example" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/ruby-vips-2.0.17/example" />
+        </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
